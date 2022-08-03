@@ -116,6 +116,34 @@ padding: 3% 2%;
 border: #8f8f8f;
     
 }
+#btn-1{
+    background-color: #fff;
+    border-color: #343a40;
+    color: #343a40;
+}
+#btn-1:hover{
+    background-color: #fff;
+    color: #343a40;
+    -ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1); 
+  transform: scale(1.1); 
+}
+
+#btn-2,#btn-3{
+    background-color: #343a40;
+    border-color: #343a40;
+}
+
+#btn-2:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1);
+}
+#btn-3:hover{
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1);
+}
 #cta{
     background-color:#ff4c68 ;
     margin: auto;
